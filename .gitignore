@@ -1,0 +1,5 @@
+MNIST_data/*
+images/*
+*.ckpt
+*.ckpt.meta
+*.swp
